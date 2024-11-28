@@ -43,3 +43,21 @@ O design é adaptável a dispositivos móveis, garantindo que o projeto seja ace
 ## Objetivo:
 Este projeto tem como objetivo fornecer aos usuários uma ferramenta rápida e simples para gerar números para a Lotofácil, sem a necessidade de calcular ou selecionar os números manualmente. Ele é ideal para quem gosta de testar cópias simuladas ou simplesmente quer uma forma prática de realizar apostas no jogo.
 
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para:
+
+`Relatar problemas.`
+
+`Sugerir melhorias.`
+
+`Enviar solicitações pull.`
+
+## Apoie-me:
+
+<a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="130" height="30"></a>
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="130" height="30"></a>
+
+<a href="https://github.com/sponsors/Ninja1375" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white" width="130" height="30"></a>
+
