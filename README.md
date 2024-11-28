@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+**[Gerador de Números da Lotofácil](https://ninja1375.github.io/Gerador-de-numeros-da-lotofacil/)**
+
 Este projeto é um **gerador de números aleatórios para a Lotofácil**. Ele permite ao usuário gerar cópias de números que poderiam ser apostados no sorteio da Lotofácil. O sistema é simples e intuitivo, proporcionando uma maneira prática para os jogadores escolherem os números da sorte.
 
 # Funcionalidades:
